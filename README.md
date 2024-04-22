@@ -1,4 +1,4 @@
-# simon-says-game
+# simon-say-game
 
 
 <p>This is my take on the classic game of Simon Says! <em>Beat all 12 levels and brag to your friends.</em></p>
