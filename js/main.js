@@ -6,6 +6,8 @@ let userSequence = [];
 let level;
 let highScore = 0;
 
+
+
 const board = document.querySelector(".board");
 const startButton = document.getElementById("play");
 const info = document.getElementById("info");
